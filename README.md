@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Alberto Rodriguez Puertos</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [Sustentability Website](in progress)
+- 🔭 I’m currently working on [FullStack App](in progress)
 
 - 🌱 I’m currently learning **React, ThreeJS, Machine Learning, Python**
 
