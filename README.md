@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FullStack App](in progress)
 
-- 🌱 I’m currently learning **React, ThreeJS, Machine Learning, Python**
+- 🌱 I’m currently learning **React, Astro.js, Machine Learning, Python**
 
 - 👯 I’m looking to collaborate on **Proyects**
 
