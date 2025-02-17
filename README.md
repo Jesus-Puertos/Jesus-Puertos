@@ -2,9 +2,9 @@
 <h3 align="center">Un apasionado desarrollador web de México</h3>
 
 - 🔭 Me encuentro trabajando con mi campaña en Movimiento Ciudadano 🍊
-- 🌱 Me encuentro aprendiedno **Machine Learning, Python y Rust**
+- 🌱 Me encuentro aprendiendo **Machine Learning, Python y Rust**
 
-- 👯 Busco colaborar o trabajar en **Proyectos**
+- 👯 Busco colaborar ó trabajar en **Proyectos**
 
 - 👨‍💻 Algunos de mis proyectos estan disponibles en: [https://jesus-puertos-portfolio.netlify.app/](https://jesus-puertos-portfolio.netlify.app/)
 
