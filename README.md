@@ -2,17 +2,17 @@
 <h3 align="center">Un apasionado desarrollador web de México</h3>
 
 - 🔭 Me encuentro trabajando con mi campaña en Movimiento Ciudadano 🍊
-- 🌱 Me encuentro aprendiedno **Machine Learning y Python**
+- 🌱 Me encuentro aprendiedno **Machine Learning, Python y Rust**
 
-- 👯 Busco colaborar o teabajar en **Proyectos**
+- 👯 Busco colaborar o trabajar en **Proyectos**
 
 - 👨‍💻 Algunos de mis proyectos estan disponibles en: [https://jesus-puertos-portfolio.netlify.app/](https://jesus-puertos-portfolio.netlify.app/)
 
 - 💬 Puedes preguntarme sobre _**HTML, CSS, JS, TailwindCSS, Astro, PHP, CMS**_
 
-- 📫 ¿Comó contactarme? **226w0496@zongolica.tecnm.mx**
+- 📫 ¿Comó contactarme? enviame un correo: **226w0496@zongolica.tecnm.mx**
 
-- ⚡ Dato curioso **CSS No tenia un logo oficial, hasta hace poco 2024.**
+- ⚡ Dato curioso: **CSS No tenia un logo oficial, hasta hace poco 2024.**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
