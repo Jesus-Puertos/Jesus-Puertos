@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jesus Alberto Rodriguez Puertos</h1>
 <h3 align="center">Un apasionado desarrollador web de México</h3>
 
-- 🔭 Me encuentro trabajando con mi campaña en Movimiento Ciudadano 🍊
+- 🔭 Me encuentro trabajando en Heineken México 
 - 🌱 Me encuentro aprendiendo **Machine Learning, Python y Rust**
 
 - 👯 Busco colaborar ó trabajar en **Proyectos**
